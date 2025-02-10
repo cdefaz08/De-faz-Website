@@ -14,13 +14,13 @@ nav {
 
 nav ul {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     list-style: none;
     padding: 0;
 }
 
 nav ul li {
-    margin: 0 15px;
+    margin: 0 25px;
 }
 
 nav ul li a {
